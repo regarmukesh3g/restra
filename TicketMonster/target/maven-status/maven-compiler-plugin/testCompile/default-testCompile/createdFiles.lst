@@ -1,0 +1,4 @@
+org\amdocs\elearning\user\service\UserControllerTest.class
+org\amdocs\elearning\user\service\UserIntegrationTest.class
+org\amdocs\vm\application\TicketMonsterApplicationTests.class
+org\amdocs\elearning\user\service\UserServiceTest.class
